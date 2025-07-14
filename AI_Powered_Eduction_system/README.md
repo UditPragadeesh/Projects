@@ -42,8 +42,8 @@ To run app, use command
 
 
 ## 🚀 About Me
-I'm an aspiring Data Scientist
-
+Aspiring Data scientist with a background in aeronautical engineering and passion for problem solving and decision making. 
+Inspired by the influence data has on different industries on different levels. 
 
 ## 🛠 Skills
  Python, PyTorch, SQL, Scikit-learn, Matplotlib, Seaborn,Power BI, MS Office: Excel, Word, PowerPoint, Six sigma, Problem Solving, Adaptability and Resilience
