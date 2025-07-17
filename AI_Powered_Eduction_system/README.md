@@ -36,7 +36,13 @@ To run app, use command
 ```bash
    streamlit run Streamlit_app\Introduction.py
 ```
-
+## ACKNOWLEDGEMENT
+•	✍️ Aeon Essays Dataset
+•	https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention/data
+•	https://github.com/carmelh/SQL_projects/tree/main/student_data_analysis/Datasets
+•	https://sites.google.com/view/assistmentsdatamining
+•	https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+•	https://huggingface.co/Falconsai/text_summarization
 
 # Hi, I'm Udit Pragadeesh! 👋
 
